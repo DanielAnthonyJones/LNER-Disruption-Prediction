@@ -1,0 +1,4 @@
+from_date,to_date,status_code,error_text
+2025-01-22,2025-01-28,429,"{""fault"":{""faultstring"":""Spike arrest violation. Allowed rate : MessageRate{messagesPerPeriod=1, periodInMicroseconds=1000000, maxBurstMessageCount=1.0}"",""detail"":{""errorcode"":""policies.ratelimit.SpikeArrestViolation""}}}"
+2025-03-05,2025-03-11,429,"{""fault"":{""faultstring"":""Spike arrest violation. Allowed rate : MessageRate{messagesPerPeriod=1, periodInMicroseconds=1000000, maxBurstMessageCount=1.0}"",""detail"":{""errorcode"":""policies.ratelimit.SpikeArrestViolation""}}}"
+2025-03-26,2025-04-01,429,"{""fault"":{""faultstring"":""Spike arrest violation. Allowed rate : MessageRate{messagesPerPeriod=1, periodInMicroseconds=1000000, maxBurstMessageCount=1.0}"",""detail"":{""errorcode"":""policies.ratelimit.SpikeArrestViolation""}}}"
